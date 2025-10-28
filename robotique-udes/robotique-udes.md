@@ -16,7 +16,7 @@
 Depuis 2023, je fais partie du groupe technique Rovus au sein de Robotique UdeS, où l'équipe conçoit un rover martien destiné à la compétition [*CIRC*](https://circ.cstag.ca/2024/) en Alberta. Je m’y implique depuis maintenant trois ans.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="media/rover-2024.jpeg" alt="rover 2025" style="height:400px; margin-right: 10px;">
+  <img src="media/rover-2024.jpg" alt="rover 2025" style="height:400px; margin-right: 10px;">
 </div>
 
 ## Résultats
@@ -35,7 +35,7 @@ Pour l’édition 2023, j’étais responsable du module science. Voici quelques
 - Programmation embarquée des pelles de l'assemblage
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="media/module-science-2024-1.jpeg" alt="rover 2025" style="height:400px; margin-right: 10px;">
+  <img src="media/module-science-2024-1.jpg" alt="rover 2025" style="height:400px; margin-right: 10px;">
   <img src="media/module-science-2024-2.jpg" alt="bras robotique du rover" style="height:400px;">
 </div>
 
@@ -48,7 +48,7 @@ Pour l’édition 2024 et 2025, j'ai travaillé sur l'ordinateur de bord et le G
 Cette partie a fait appel à mes connaissances de construction d’ordinateur qui est une de mes passions. L’idée ici était de miniaturiser l’ordinateur le plus possible tout en gardant une plateforme custom qui permet d’améliorer l’ordinateur plus tard. J’ai donc fait la sélection des pièces nécessaires, l’assemblage, la conception de l’enclosure ainsi que la configuration.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="media/ordinateur-de-bord.jpeg" alt="rover 2025" style="height:400px; margin-right: 10px;">
+  <img src="media/ordinateur-de-bord.jpg" alt="rover 2025" style="height:400px; margin-right: 10px;">
 </div>
 
 ### Programmation  
@@ -62,9 +62,9 @@ J’ai ensuite pivoté vers mon travail sur le GUI. Les caméras IP diffusent le
 ## Galerie
 
 ![alt text](media/galerie1.jpg)
-![alt text](media/galerie2.jpeg)
-![alt text](media/galerie3.jpeg)
-![alt text](media/galerie4.jpg)
+![alt text](media/galerie2.jpg)
+![alt text](media/galerie3.jpg)
+![alt text](media/galerie4.jpeg)
 
 --------------------------------------------------------------------------------
 

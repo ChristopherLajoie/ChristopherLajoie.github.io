@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items: center;">
   <a href="robotique-udes/robotique-udes">
-  <img src="robotique-udes/media/rover-2024.jpeg" alt="Rover à la compétition CIRC2024">
+  <img src="robotique-udes/media/rover-2024.jpg" alt="Rover à la compétition CIRC2024">
 </a>
 </div>
 
