@@ -14,17 +14,16 @@
 
 <div style="display: flex; align-items: center;">
   <a href="robotique-udes/robotique-udes">
-  <img src="robotique-udes/media/rover-2025.jpeg" alt="Rover à la compétition CIRC2024">
+  <img src="robotique-udes/media/rover-2024.jpeg" alt="Rover à la compétition CIRC2024">
 </a>
 </div>
 
-
 --------------------------------------------------------------------------------
 
-### [Projet majeur de conception - ROSIE](pmc/pmc)
+### [Projet majeur de conception - CapCarbone](pmc/pmc)
 
 <div style="display: flex; align-items: center;">
   <a href="pmc/pmc">
-  <img src="pmc/media/image-0.jpg" alt="Projet majeur de conception">
+  <img src="pmc/media/machine-in-progress.jpg" alt="Projet majeur de conception">
 </a>
 </div>
