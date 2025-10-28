@@ -28,16 +28,12 @@ J’ai occupé le rôle de responsable de la programmation PLC de la machine. Me
 - Contribution à la conception d'une interface humain-machine (HMI) 
 - Etc.
 
-(voir code source [PLC] (https://github.com/ChristopherLajoie/PMC_CapCarbone))
+(voir code source [PLC](https://github.com/ChristopherLajoie/PMC_CapCarbone))
 
 ## Galerie
 
 À venir!
-<!--
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="media/image-0.jpg" alt="Machine complète" style="height: 500px; margin-right: 10px;">
-</div>
--->
+
 --------------------------------------------------------------------------------
 
 [↩ Retour à l’accueil](/index)
