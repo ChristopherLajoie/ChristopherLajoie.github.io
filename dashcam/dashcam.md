@@ -24,7 +24,7 @@ Ensuite, j'ai utilisé un raspberry pi 4 en ma possession que j'alimente en util
   <img src="media/pi.jpeg" alt="Pi" style="height:400px; margin-right: 10px;">
 </div>
 
-Finalement j'ai écris un script python qui enregistre la vidéo dès que la voiture est démarré et arrête lorsqu'elle s'éteint. Les clips ne sont jamais corrompus grâce à l'utilisation agile des options ffmpeg comme frag_keyframe, empty_moov et flush_packets. De plus, un serveur web est hosté localement sur un point d'accès créé par le Pi qui permet à n'importe qui de s'y connecter et voir tous les enregistrements récents. Voici un apperçu:
+Finalement j'ai écris un script python qui enregistre la vidéo dès que la voiture est démarré et arrête lorsqu'elle s'éteint. Les clips ne sont jamais corrompus grâce à l'utilisation agile des options ffmpeg comme frag_keyframe, empty_moov et flush_packets. De plus, un serveur web est hosté localement sur un point d'accès créé par le Pi qui permet à n'importe qui de s'y connecter et voir tous les enregistrements récents. Voici un aperçu:
 
 <div style="margin-top: 20px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/pov.PNG" alt="pov" style="height:400px; margin-right: 10px;">
