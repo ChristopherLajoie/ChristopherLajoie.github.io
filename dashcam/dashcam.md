@@ -12,7 +12,7 @@
 
 Ayant vu beaucoup de vidéos en ligne de clips enregistrés sur une dashcam et comment ça peut être très utile en cas d'accident ou malchance autre, j'ai décidé de m'en construire une. J'avais une caméra IP qui trainait chez moi et je l'ai donc utilisé comme base pour ce projet.
 
-Premièerement j'ai imprimé en 3D un case pour la caméra elle même et je l'ai monté sur le dash de ma voiture comme ci:
+Premièrement j'ai imprimé en 3D un case pour la caméra elle même et je l'ai monté sur le dash de ma voiture comme ci:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/overview.jpeg" alt="overview" style="height:400px; margin-right: 10px;">
