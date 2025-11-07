@@ -31,3 +31,11 @@ Bienvenue dans mon portfolio! Voici quelques-uns de mes projets de conception en
   <img src="pmc/media/machine-in-progress.jpg" alt="Projet majeur de conception">
 </a>
 </div>
+
+### [Dashcam](dashcam/dashcam)
+
+<div style="display: flex; align-items: center;">
+  <a href="dashcam/dashcam">
+  <img src="dashcam/media/overview.jpeg" alt="overview dashcam">
+</a>
+</div>
