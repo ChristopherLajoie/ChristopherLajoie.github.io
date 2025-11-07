@@ -13,6 +13,7 @@ Bienvenue dans mon portfolio! Voici quelques-uns de mes projets de conception en
 
 - [Groupe technique Rovus – Robotique UdeS](robotique-udes/robotique-udes)
 - [Projet majeur de conception - CapCarbone](pmc/pmc)
+- [Dashcam](dashcam/dashcam)
 
 ### [Groupe technique Rovus – Robotique UdeS](robotique-udes/robotique-udes)
 
