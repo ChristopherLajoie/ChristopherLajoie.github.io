@@ -10,21 +10,23 @@
 
 ## Dashcam
 
-Ayant vu beaucoup de vidéos en ligne de clips enregistrés sur une dashcam et comment ça peut être très utile en cas d'accident ou malchance autre, j'ai décidé de m'en construire une. J'avais une caméra IP qui trainait chez moi et je l'ai donc utilisé comme base pour ce projet.
+Ayant constaté à quel point les enregistrements de dashcam peuvent être utiles en cas d’accident ou de situation imprévue, j’ai décidé de concevoir ma propre solution. Pour ce faire, j’ai réutilisé une caméra IP déjà en ma possession comme base du projet.
 
-Premièrement j'ai imprimé en 3D un case pour la caméra elle même et je l'ai monté sur le dash de ma voiture comme ci:
+Dans un premier temps, j’ai imprimé en 3D un boîtier sur mesure pour la caméra, puis je l’ai fixé sur le tableau de bord de la voiture, comme illustré ci-dessous :
 
 <div style="margin-top: 20px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/overview.jpeg" alt="overview" style="height:400px; margin-right: 10px;">
 </div>
 
-Ensuite, j'ai utilisé un raspberry pi 4 en ma possession que j'alimente en utilisante la prise cigarette et qui est connecté par ethernet à la caméra:
+La caméra est reliée à un Raspberry Pi 4, alimenté via la prise 12 V (prise « cigarette ») du véhicule et connecté à la caméra par un câble Ethernet :
 
 <div style="margin-top: 20px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/pi.jpeg" alt="Pi" style="height:400px; margin-right: 10px;">
 </div>
 
-Finalement j'ai écris un script python qui enregistre la vidéo dès que la voiture est démarré et arrête lorsqu'elle s'éteint. Les clips ne sont jamais corrompus grâce à l'utilisation agile des options ffmpeg comme frag_keyframe, empty_moov et flush_packets. De plus, un serveur web est hosté localement sur un point d'accès créé par le Pi qui permet à n'importe qui de s'y connecter et voir tous les enregistrements récents. Voici un aperçu:
+J’ai ensuite développé un script Python qui démarre automatiquement l’enregistrement dès que le véhicule est mis sous tension et l’arrête lorsqu’il est éteint. L’intégrité des fichiers vidéo est assurée grâce à l’utilisation judicieuse de certaines options ffmpeg (notamment frag_keyframe, empty_moov et flush_packets), ce qui évite la corruption des clips même en cas d’arrêt soudain.
+
+Par ailleurs, le Raspberry Pi héberge un serveur web local accessible via un point d’accès Wi-Fi qu’il crée. Toute personne connectée à ce réseau peut ainsi consulter facilement les enregistrements récents depuis un navigateur. Voici un aperçu de l’interface et du point de vue de la caméra :
 
 <div style="margin-top: 20px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/pov.PNG" alt="pov" style="height:400px; margin-right: 10px;">
