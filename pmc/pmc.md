@@ -38,6 +38,12 @@ J’ai occupé le rôle de responsable de la programmation PLC de la machine. Me
   </video>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <a href="dashcam/dashcam">
+  <img src="media/machine.jpg" alt="overview dashcam">
+</a>
+</div>
+
 --------------------------------------------------------------------------------
 
 [↩ Retour à l’accueil](/index)

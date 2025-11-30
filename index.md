@@ -29,7 +29,7 @@ Bienvenue dans mon portfolio! Voici quelques-uns de mes projets de conception en
 
 <div style="display: flex; align-items: center;">
   <a href="pmc/pmc">
-  <img src="pmc/media/machine-in-progress.jpg" alt="Projet majeur de conception">
+  <img src="pmc/media/goodbye.jpg" alt="Projet majeur de conception">
 </a>
 </div>
 
