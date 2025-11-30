@@ -32,7 +32,11 @@ J’ai occupé le rôle de responsable de la programmation PLC de la machine. Me
 
 ## Galerie
 
-À venir!
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <video src="media/megagenial.mp4" controls style="max-width: 100%; height: auto;">
+    Votre navigateur ne supporte pas la balise vidéo.
+  </video>
+</div>
 
 --------------------------------------------------------------------------------
 
