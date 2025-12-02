@@ -19,6 +19,12 @@ Le projet majeur de conception est un projet de fin d'étude s'étalant sur 3 se
 
 CapCarbone est un machine industrielle robuste et autonome de capture du carbone dans l'air partiellement financé et en collaboration avec l'entreprise Skyrenu pour le développement de leur technologie. 
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <video src="media/megagenial.mp4" controls style="max-width: 100%; height: auto;">
+    Votre navigateur ne supporte pas la balise vidéo.
+  </video>
+</div>
+
 ## Rôle
 
 J’ai occupé le rôle de responsable de la programmation PLC de la machine. Mes principales contributions jusqu’à présent sont :
@@ -31,12 +37,6 @@ J’ai occupé le rôle de responsable de la programmation PLC de la machine. Me
 (voir code source [PLC](https://github.com/ChristopherLajoie/PMC_CapCarbone))
 
 ## Galerie
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <video src="media/megagenial.mp4" controls style="max-width: 100%; height: auto;">
-    Votre navigateur ne supporte pas la balise vidéo.
-  </video>
-</div>
 
 <div style="display: flex; align-items: center;">
   <a href="stepper">
