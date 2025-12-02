@@ -37,6 +37,6 @@ Bienvenue dans mon portfolio! Voici quelques-uns de mes projets de conception en
 
 <div style="display: flex; align-items: center;">
   <a href="dashcam/dashcam">
-  <img src="dashcam/media/overview.jpeg" alt="overview dashcam">
+  <img src="dashcam/media/machine_side.jpg" alt="overview dashcam">
 </a>
 </div>

@@ -39,11 +39,58 @@ J’ai occupé le rôle de responsable de la programmation PLC de la machine. Me
 </div>
 
 <div style="display: flex; align-items: center;">
-  <a href="dashcam/dashcam">
-  <img src="media/machine.jpg" alt="overview dashcam">
+  <a href="stepper">
+  <img src="media/stepper.jpg" alt="overview dashcam">
 </a>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <a href="sensors">
+  <img src="media/sensors.jpg" alt="overview dashcam">
+</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="rails">
+  <img src="media/rails.jpg" alt="overview dashcam">
+</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="poussoir">
+  <img src="media/poussoir.jpg" alt="overview dashcam">
+</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="panneau">
+  <img src="media/panneau.jpg" alt="overview dashcam">
+</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="panneau_closed">
+  <img src="media/panneau_closed.jpg" alt="overview dashcam">
+</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="machine_side">
+  <img src="media/machine_side.jpg" alt="overview dashcam">
+</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="guillotine">
+  <img src="media/guillotine.jpg" alt="overview dashcam">
+</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="goodbye">
+  <img src="media/goodbye.jpg" alt="overview dashcam">
+</a>
+</div>
 --------------------------------------------------------------------------------
 
 [↩ Retour à l’accueil](/index)
