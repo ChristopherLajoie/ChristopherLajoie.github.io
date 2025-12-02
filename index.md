@@ -30,7 +30,7 @@ Bienvenue dans mon portfolio! Voici quelques-uns de mes projets de conception en
 
 <div style="display: flex; align-items: center;">
   <a href="pmc/pmc">
-  <img src="pmc/media/goodbye.jpg" alt="Projet majeur de conception">
+  <img src="pmc/media/machine_side.jpg" alt="Projet majeur de conception">
 </a>
 </div>
 
@@ -38,7 +38,7 @@ Bienvenue dans mon portfolio! Voici quelques-uns de mes projets de conception en
 
 <div style="display: flex; align-items: center;">
   <a href="dashcam/dashcam">
-  <img src="pmc/media/machine_side.jpg" alt="overview dashcam">
+  <img src="dashcam/media/overview.jpeg" alt="overview dashcam">
 </a>
 </div>
 
