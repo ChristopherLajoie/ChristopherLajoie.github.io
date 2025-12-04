@@ -18,6 +18,8 @@ Ce projet a été réalisé dans le cadre d'un cours sur l'apprentissage par ren
 
 Le défi consistait à entraîner un agent capable de naviguer dans cet environnement stochastique en utilisant des méthodes de Deep Reinforcement Learning.
 
+(voir code source [git](https://github.com/ChristopherLajoie/GRO860_projetsession))
+
 ## Environnement et Physique
 
 Contrairement au jeu original simpliste, cet environnement intègre des variables physiques complexes pour accroître la difficulté et le réalisme.
@@ -94,7 +96,6 @@ L'analyse de la politique apprise révèle une compréhension fine de la physiqu
 
 L'agent a surpassé de manière significative l'approche algorithmique classique, démontrant une capacité d'adaptation supérieure aux perturbations aléatoires comme le vent et les tuyaux mouvants.
 
-(voir code source [git](https://github.com/ChristopherLajoie/GRO860_projetsession))
 --------------------------------------------------------------------------------
 
 [↩ Retour à l'accueil](/index)
