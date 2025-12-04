@@ -86,6 +86,12 @@ L'agent PPO a été comparé à un contrôleur PID classique pour évaluer sa pe
 
 L'analyse de la politique apprise révèle une compréhension fine de la physique du jeu. La heatmap ci-dessous montre la probabilité de "Flap" en fonction de la position et de la vitesse verticale. On observe une frontière de décision nette (en bleu/rouge) qui s'adapte dynamiquement.
 
+<div style="display: flex; align-items: center;">
+  <a href="heatmap">
+  <img src="media/heatmap.png" alt="heatmap">
+</a>
+</div>
+
 L'agent a surpassé de manière significative l'approche algorithmique classique, démontrant une capacité d'adaptation supérieure aux perturbations aléatoires comme le vent et les tuyaux mouvants.
 
 --------------------------------------------------------------------------------
