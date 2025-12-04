@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-# Flappy-RL : Agent Autonome avec Curriculum Learning
+# Flappy-RL : Entraînement d'un agent intelligent par renforcement
 
 ### Table des matières
 
