@@ -94,6 +94,7 @@ L'analyse de la politique apprise révèle une compréhension fine de la physiqu
 
 L'agent a surpassé de manière significative l'approche algorithmique classique, démontrant une capacité d'adaptation supérieure aux perturbations aléatoires comme le vent et les tuyaux mouvants.
 
+(voir code source [git](https://github.com/ChristopherLajoie/GRO860_projetsession))
 --------------------------------------------------------------------------------
 
 [↩ Retour à l'accueil](/index)
