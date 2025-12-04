@@ -26,7 +26,7 @@ Contrairement au jeu original simpliste, cet environnement intègre des variable
 
 L'agent perçoit son environnement à travers un vecteur d'état continu comprenant :
 
-* Position verticale ($y$) et vitesse verticale ($v_y$) de l'oiseau.
+* Position verticale (y) et vitesse verticale (v_y) de l'oiseau.
 * Distance horizontale et verticale par rapport au prochain tuyau.
 * Centre et hauteur de l'ouverture (gap).
 * Vitesse actuelle des tuyaux et force du vent.
@@ -44,18 +44,18 @@ L'agent a été entraîné utilisant l'algorithme **PPO (Proximal Policy Optimiz
 
 * **Réseau de neurones** : Perceptron multicouche (MLP) avec une architecture `[256, 256]`.
 * **Technique de vision** : Utilisation du *Frame Stacking* (empilement de 4 images/états consécutifs) pour permettre à l'agent de percevoir la temporalité et l'accélération.
-* **Hyperparamètres** : Le taux d'apprentissage décroît linéairement de $1.5 \times 10^{-4}$ à $5 \times 10^{-5}$.
+* **Hyperparamètres** : Le taux d'apprentissage décroît linéairement de 1.5 x 10^-4 à 5 x 10^-5.
 
 ### Fonction de Récompense
 
 La fonction de performance est cruciale pour guider l'apprentissage. Elle est définie comme suit :
 
-$$R_{total} = R_{step} + R_{pipe} + R_{center} + R_{crash}$$
+R_total = R_step + R_pipe + R_center + R_crash
 
-* **$R_{step}$** : Récompense de survie, pénalisée par l'utilisation excessive d'énergie (flaps).
-* **$R_{pipe}$** : Bonus majeur (+1.0) pour avoir franchi un tuyau.
-* **$R_{center}$** : Bonus de précision (+0.1) si l'oiseau passe exactement au centre de l'ouverture.
-* **$R_{crash}$** : Pénalité sévère (-3.0) en cas de collision ou de sortie de l'écran.
+* **R_step** : Récompense de survie, pénalisée par l'utilisation excessive d'énergie (flaps).
+* **R_pipe** : Bonus majeur (+1.0) pour avoir franchi un tuyau.
+* **R_center** : Bonus de précision (+0.1) si l'oiseau passe exactement au centre de l'ouverture.
+* **R_crash** : Pénalité sévère (-3.0) en cas de collision ou de sortie de l'écran.
 
 ## Stratégie d'Entraînement
 
